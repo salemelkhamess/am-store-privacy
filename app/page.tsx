@@ -15,11 +15,7 @@ export default function PrivacyPage() {
       content:
           "AM STORE enregistre les informations relatives aux commandes afin de permettre le suivi des achats, l’affichage de l’historique des commandes et l’amélioration de nos services.",
     },
-    {
-      title: "Paiements et sécurité",
-      content:
-          "Les informations liées aux paiements sont traitées avec des mesures de sécurité avancées afin de protéger les utilisateurs contre tout accès non autorisé ou utilisation frauduleuse.",
-    },
+
     {
       title: "Protection des données",
       content:
