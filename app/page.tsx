@@ -3,7 +3,7 @@ export default function PrivacyPage() {
     {
       title: "Création de compte",
       content:
-          "Lorsque vous créez un compte AM STORE, nous pouvons collecter certaines informations comme votre nom, adresse e-mail, numéro de téléphone et informations de connexion afin de sécuriser votre compte et améliorer votre expérience.",
+          "Lorsque vous créez un compte AM STORE, nous pouvons collecter certaines informations comme votre nom, numéro de téléphone et informations de connexion afin de sécuriser votre compte et améliorer votre expérience.",
     },
     {
       title: "Navigation et recherche de produits",
