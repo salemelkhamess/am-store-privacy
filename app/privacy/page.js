@@ -50,15 +50,15 @@ export default function PrivacyPage() {
                     <div className="inline-flex items-center gap-3 px-5 py-2 rounded-full border border-green-400/20 bg-green-500/10 backdrop-blur-md mb-8">
                         <div className="w-3 h-3 rounded-full bg-green-400 animate-pulse"></div>
                         <span className="text-green-300 text-sm tracking-wider uppercase">
-              AM STORE • Online Shopping Platform
-            </span>
+                            AM STORE • Online Shopping Platform
+                        </span>
                     </div>
 
                     <h1 className="text-6xl md:text-7xl font-black mb-8 leading-tight">
                         Privacy
                         <span className="block bg-gradient-to-r from-green-400 to-emerald-300 bg-clip-text text-transparent">
-              Policy
-            </span>
+                            Policy
+                        </span>
                     </h1>
 
                     <p className="max-w-3xl mx-auto text-gray-300 text-xl leading-9">
@@ -179,6 +179,15 @@ export default function PrivacyPage() {
                                 Protected Data
                             </div>
 
+                        </div>
+
+                        <div className="flex flex-wrap justify-center gap-4 mt-6">
+                            <a
+                                href="/support"
+                                className="px-6 py-3 rounded-full bg-green-500/20 border border-green-400/40 text-green-300 hover:bg-green-500/30 hover:border-green-400/60 transition-all duration-300 font-semibold"
+                            >
+                                🎧 Support Client
+                            </a>
                         </div>
 
                         <div className="mt-10 text-gray-500 text-sm">
