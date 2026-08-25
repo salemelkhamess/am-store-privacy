@@ -141,11 +141,21 @@ export default function SupportPage() {
                             AM STORE
                         </h2>
 
-                        <p className="max-w-2xl mx-auto text-gray-400 leading-8 mb-8">
+                        <p className="max-w-2xl mx-auto text-gray-400 leading-8 mb-6">
                             Vous n'avez pas trouvé de réponse à votre question ? Notre équipe
                             est disponible pour vous accompagner directement depuis
                             l'application AM STORE.
                         </p>
+
+                        <div className="mb-8">
+                            <p className="text-gray-400 text-sm mb-3">Pour plus d'information, contactez-nous :</p>
+                            <a
+                                href="mailto:salemelkhamess@gmail.com"
+                                className="inline-flex items-center gap-2 px-6 py-3 rounded-full bg-green-500/15 border border-green-400/30 text-green-300 hover:bg-green-500/25 hover:border-green-400/50 transition-all duration-300 font-medium"
+                            >
+                                ✉️ salemelkhamess@gmail.com
+                            </a>
+                        </div>
 
                         <div className="flex flex-wrap justify-center gap-4 mb-8">
 
